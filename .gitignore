@@ -1,0 +1,6 @@
+
+/data/itens.dat
+/data/emails.txt
+/data/usuarios.txt
+*.o
+*.exe
