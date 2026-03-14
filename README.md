@@ -1,7 +1,7 @@
 
 # Sistema Atacadão - Unidade III
 
-Este projeto é a continuação da Unidade II, com melhorias de estrutura de dados e implementação de algoritmos de ordenação e busca.
+Este projeto é da III unidade da disciplina Estruturas de Dados II, onde desenvolvi um Sistema de Atacadão implentando algoritmos de ordenação e busca.
 
 ## Funcionalidades
 - Cadastro e Login de usuários.
